@@ -1,4 +1,10 @@
-<h1>MyTeacher Project - Backend</h1>
-<h2>Repositório do projeto MyTeacher apresentado no Workshop Semana React e Python da @Treinaweb.</h2>
-<img height='500' src="https://github.com/carlos09v/workshop-myteacher-frontend/blob/main/public/preview.jpg?raw=true" alt="MyTeacher'">
-<h3>< <a target="_blank" href="https://github.com/carlos09v/workshop-myteacher-frontend">Ir para o repositório frontend - react e next.js</a> ></h3>
+<h1>MyTeacher Project</h1>
+<p>Repositório do projeto MyTeacher apresentado no Workshop Semana React e Python da @Treinaweb.</p>
+<p>Obs: Feito em 2022...</p>
+<div align='center'>
+    <img height='400' src="https://github.com/carlos09v/workshop-myteacher/blob/main/frontend/public/preview.jpg?raw=true" alt="MyTeacher'">
+</div>
+<h2>Frontend</h2>
+...
+<h2>Backend</h2>
+...
